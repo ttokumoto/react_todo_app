@@ -1,0 +1,10 @@
+.TodoContents {
+    text-align: left;
+    width: 100%;
+    display: inline-block;
+}
+
+/* レスポンシブデザインにせな */
+.TodoText {
+    width: 270px;
+}
